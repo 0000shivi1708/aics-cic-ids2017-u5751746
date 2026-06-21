@@ -1,0 +1,6 @@
+{
+  "data_mode": "REAL",
+  "random_seed": 42,
+  "split": "60/20/20 stratified",
+  "rows_after_cleaning": 2522362
+}

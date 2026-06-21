@@ -1,0 +1,13 @@
+# Install with:   pip install -r requirements.txt
+
+numpy>=1.24            # tested 2.4.4
+pandas>=1.5            # tested 3.0.2
+scikit-learn>=1.2      # tested 1.8.0
+xgboost>=1.7           # tested 3.3.0
+matplotlib>=3.6        # tested 3.10.8
+seaborn>=0.12          # tested 0.13.2
+joblib>=1.2            # tested 1.5.3
+
+# Only needed if you want to execute the .ipynb from the command line:
+# jupyter>=1.0
+# nbconvert>=7.0
